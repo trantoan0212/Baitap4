@@ -1,7 +1,6 @@
-s = input('nhap chuoi: ')
-a=s.replace(" ", "")
-print(a)
-             
+s = input('nhap chuoi: ').upper()
+for ch in s:
+    print(ch)
              
 
     
