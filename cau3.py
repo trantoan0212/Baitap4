@@ -1,6 +1,6 @@
-S = input('Nhap chuoi: ')
-a = S.upper()
-print(a)
+s = input('nhap chuoi: ').upper()
+for ch in s:
+    print(ch)
 
              
              
