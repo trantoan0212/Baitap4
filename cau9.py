@@ -1,1 +1,2 @@
-ds = input('nhap chuoi:').split
+ds = input('nhap chuoi:').split()
+print(ds)
